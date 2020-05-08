@@ -1,0 +1,30 @@
+﻿@model identity1.Models.Commander
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Commander</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CommanderLogin)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CommanderLogin)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CommanderPass)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CommanderPass)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.CommanderId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
