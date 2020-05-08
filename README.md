@@ -19,6 +19,8 @@ Milestone 3: Implement authorization and authentication with asp.net core Identi
 
 
 Group: CSSE-1702
+
+
 Developers: Yerbosyn Azamat, Asylzhan Balatursyn, Beibarys Tursynbek.
 
 
