@@ -18,5 +18,6 @@ namespace identity1.Data
         public DbSet<identity1.Models.StudyEvent> StudyEvent { get; set; }
         public DbSet<identity1.Models.Commander> Commander { get; set; }
         public DbSet<identity1.Models.Group> Group { get; set; }
+        public DbSet<identity1.Models.News> News { get; set; }
     }
 }

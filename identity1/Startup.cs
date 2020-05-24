@@ -32,8 +32,9 @@ namespace identity1
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             // добавление сервисов Idenity
+
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                            .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

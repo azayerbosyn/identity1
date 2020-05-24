@@ -177,9 +177,6 @@ C:\Users\aza\source\repos\identity1\identity1\bin\Debug\netcoreapp3.1\runtimes\w
 C:\Users\aza\source\repos\identity1\identity1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\aza\source\repos\identity1\identity1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\aza\source\repos\identity1\identity1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\identity1.csproj.CoreCompileInputs.cache
-C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\identity1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\identity1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\Commanders\Create.cshtml.g.cs
 C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\Commanders\Delete.cshtml.g.cs
 C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\Commanders\Details.cshtml.g.cs
@@ -200,3 +197,14 @@ C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\View
 C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\StudyEvents\Details.cshtml.g.cs
 C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\StudyEvents\Edit.cshtml.g.cs
 C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\StudyEvents\Index.cshtml.g.cs
+C:\Users\aza\source\repos\identity1\identity1\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\aza\source\repos\identity1\identity1\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\identity1.csproj.CoreCompileInputs.cache
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\identity1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\identity1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\News\Create.cshtml.g.cs
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\News\Delete.cshtml.g.cs
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\News\Details.cshtml.g.cs
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\News\Edit.cshtml.g.cs
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\aza\source\repos\identity1\identity1\obj\Debug\netcoreapp3.1\Razor\Views\News\New.cshtml.g.cs
